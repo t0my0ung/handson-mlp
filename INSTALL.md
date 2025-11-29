@@ -28,7 +28,7 @@ uv sync --frozen  # installs all the required Python libraries
 source .venv/bin/activate
 
 # On Windows using the Command Prompt (cmd.exe)
-`.venv\Scripts\activate.bat
+.venv\Scripts\activate.bat
 
 # On Windows using the PowerShell
 .venv\Scripts\Activate.ps1
